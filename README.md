@@ -23,7 +23,8 @@ composer require rutorika/sortable
  <=5.3    | 3.2.x
  5.4      | 3.4.x
  5.5      | 4.x.x
-
+ 5.6      | 5.x.x
+ 
 ## Sortable Trait
 
 Adds sortable behavior to Eloquent (Laravel) models
